@@ -28,7 +28,7 @@ These third-party assets are not claimed as original artwork by the author and r
 
 ## Project Type
 
-Academic / Portfolio Project
+Portfolio Project
 
 ## Copyright
 
